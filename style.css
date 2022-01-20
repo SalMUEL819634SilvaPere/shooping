@@ -1,0 +1,99 @@
+.aqui{
+    text-align: center;
+    background-color: rgb(100, 187, 187);
+    font-size: 40px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 20px;
+}
+
+
+
+.quem{
+
+    text-align: center;
+    font-size: 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.seja{
+    text-align: center;
+    
+    
+}
+
+
+.p{
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.somos img, .loja img , .lojas1 img{
+
+    margin-left: 1px;
+    padding: 5%;
+    height: 90%;
+    width: 90%;
+}
+
+.lojas{
+
+    display: flex;
+
+    margin-left: 15%;
+}
+.lojas1{
+
+    display: flex;
+
+    margin-left: 25%;
+}
+
+.pri{
+    margin-left: 30%;
+}
+
+
+
+
+.house{
+    margin-left: 20%;
+}
+.loja{
+    text-align: center;
+    font-size: 50px;
+}
+
+.lojas img , .lojas1 img{
+    margin-left: 1px;
+    padding: 5%;
+    height: 400px;
+    width: 400px;
+}
+
+.produ{
+    display: flex;
+    margin-left: 10%;
+}
+
+.produ img{
+    width: 300px;
+    height: 300px;
+}
+
+nav ul li{
+
+    display: inline;
+    margin-left: 100px;
+    font-size: 50px;
+}
+
+table{
+    margin-left: 10%;
+}
